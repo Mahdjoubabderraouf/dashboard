@@ -86,7 +86,7 @@ header .buttons {
 
 .menu {
   padding: 1rem;
-  background-color: #2796d1;
+  background-color: #1992d4;
   grid-row: 1 / 3;
   position: sticky;
   z-index: 2;
@@ -126,7 +126,7 @@ header .buttons {
 
 .routes > a:focus {
   border-radius: 1rem;
-  box-shadow: 12px 12px 32px #00a6ff inset;
+  box-shadow: 12px 12px 32px #0f6999 inset, -12px -12px 32px #00a6ff inset;
 }
 
 .content-container {
